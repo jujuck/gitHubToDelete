@@ -7,7 +7,15 @@
 
 
 /** Gallery */
+.card-gallery {
+  display: flex;
+}
 
+.card-gallery img {
+  width: 15%;
+  margin: 1rem;
+  cursor: grab;
+}
 
 
 /** Form */
