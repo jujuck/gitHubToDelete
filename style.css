@@ -8,6 +8,14 @@ h1 {
   text-align: center;
 }
 
+.custom {
+  border: 1px solid black;
+  border-radius: 2rem;
+  padding: 2rem;
+  margin-top: 1rem;
+  box-shadow: 5px 5px 15px 5px #000000
+}
+
 .card-container {
   width: 90%;
   margin: 0 auto;
