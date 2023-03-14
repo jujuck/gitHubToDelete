@@ -46,7 +46,19 @@ h1 {
 
 
 /** Form */
+form {
+  display: flex;
+}
 
+form input {
+  width: 50%;
+  margin-left: 1rem;
+}
+
+.label {
+  font-weight: 500;
+  width: 15rem;
+}
 
 
 /** Color */
